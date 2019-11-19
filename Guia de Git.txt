@@ -1,0 +1,12 @@
+git init = Inicializar el repositorio
+git remote add origin = Agregar el destino de los archivos
+git status = Ver el estado del repositorio
+-untracked: No ha sido agregado a los cambios
+git add = Agrega los archivos que se quieren subir y se debe especificar el archivo 
+-staged: Los cambios del archivo han sido agregados
+git commit -m = Indica que se cambio antes de subir, tiene que ir acompañado de un mensaje entre ""
+-commited: El archivo ya esta staged y ya esta listo para push
+git push = Sube los cambios al repositorio, se debe especificar el origen/destino se ouede utilizar la opcion -u para solo especificar una vez cual es el origen
+
+
+
