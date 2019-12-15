@@ -7,6 +7,3 @@ git add = Agrega los archivos que se quieren subir y se debe especificar el arch
 git commit -m = Indica que se cambio antes de subir, tiene que ir acompañado de un mensaje entre ""
 -commited: El archivo ya esta staged y ya esta listo para push
 git push = Sube los cambios al repositorio, se debe especificar el origen/destino se ouede utilizar la opcion -u para solo especificar una vez cual es el origen
-
-
-
