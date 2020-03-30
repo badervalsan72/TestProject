@@ -1,4 +1,4 @@
-git init = Inicializar el repositorio en un directorio (se hace automaticamente si se clona)
+git init = Inicializar el repositorio quiero problemas 
 git remote add origin = Agregar el destino de los archivos
 git status = Ver el estado del repositorio
 -untracked: No ha sido agregado a los cambios
